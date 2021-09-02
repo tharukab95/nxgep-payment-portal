@@ -23,7 +23,7 @@ const IndexPage: NextPage = () => {
           </Link>
         </li>
         <li>
-          <Link href="/use-shopping-cart">
+          <Link href="/ilearn-store">
             <a className="card cart-style-background">
               <h2 className="bottom">Use Shopping Cart</h2>
               <img src="/use-shopping-cart.png" />

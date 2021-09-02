@@ -1,6 +1,7 @@
 import React, { ReactNode } from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
+import Image from 'next/image'
 
 type Props = {
   children: ReactNode
@@ -31,21 +32,21 @@ const Layout = ({
     <div className="container">
       <header>
         <div className="header-content">
-          <Link href="/">
+          <Link href="/ilearn-store">
             <a className="logo">
-              <img src="/logo.png" />
+              <img src="/demo-logo.png"/>
             </a>
           </Link>
           <h1>
-            <span className="light">Stripe Sample</span>
+            <span className="light">ilearn store</span>
             <br />
-            Next.js, TypeScript, and Stripe 🔒💸
+            Powered by Stripe 🔒💸
           </h1>
         </div>
       </header>
       {children}
     </div>
-    <div className="banner">
+    {/* <div className="banner">
       <span>
         This is a{' '}
         <a
@@ -65,7 +66,7 @@ const Layout = ({
         </a>
         .
       </span>
-    </div>
+    </div> */}
   </>
 )
 

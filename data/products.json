@@ -1,19 +1,56 @@
 [
   {
-    "name": "Bananas",
-    "description": "Yummy yellow fruit",
+    "name": "Angular Security Course",
+    "description": "Angular Security Course - Web Security Fundamentals",
     "sku": "sku_GBJ2Ep8246qeeT",
-    "price": 400,
-    "image": "https://images.unsplash.com/photo-1574226516831-e1dff420e562?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=225&q=80",
-    "attribution": "Photo by Priscilla Du Preez on Unsplash",
+    "price": 4900,
+    "image": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/security-cover-small-v2.png",
+    "attribution": "Photo by Angular University",
     "currency": "USD"
   },
   {
-    "name": "Tangerines",
+    "name": "Angular PWA",
+    "description": "Angular PWA - Progressive Web Apps Course",
     "sku": "sku_GBJ2WWfMaGNC2Z",
-    "price": 100,
-    "image": "https://images.unsplash.com/photo-1482012792084-a0c3725f289f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=225&q=80",
-    "attribution": "Photo by Jonathan Pielmayer on Unsplash",
+    "price": 9900,
+    "image": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-pwa-course.png",
+    "attribution": "Photo by Angular University",
+    "currency": "USD"
+  },
+    {
+    "name": "Typescript Course",
+    "description": "The Complete Typescript Course",
+    "sku": "sku_GBJ2Ep8246qeeT",
+    "price": 2990,
+    "image": "https://angular-academy.s3.amazonaws.com/thumbnails/typescript-2-small.png",
+    "attribution": "Photo by Angular University",
+    "currency": "USD"
+  },
+  {
+    "name": "Rxjs Course",
+    "description": "Rxjs and Reactive Patterns Angular Architecture Course",
+    "sku": "sku_GBJ2WWfMaGNC2Z",
+    "price": 19900,
+    "image": "https://s3-us-west-1.amazonaws.com/angular-academy/blog/images/rxjs-reactive-patterns-small.png",
+    "attribution": "Photo by Angular University",
+    "currency": "USD"
+  },
+    {
+    "name": "Angular Material Course",
+    "description": "Build Applications with the official Angular Widget Library",
+    "sku": "sku_GBJ2Ep8246qeeT",
+    "price": 2900,
+    "image": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/material_design.png",
+    "attribution": "Photo by Angular University",
+    "currency": "USD"
+  },
+  {
+    "name": "Angular Library Course",
+    "description": "Angular Advanced Library Laboratory: Build Your Own Library",
+    "sku": "sku_GBJ2WWfMaGNC2Z",
+    "price": 9900,
+    "image": "https://angular-academy.s3.amazonaws.com/thumbnails/advanced_angular-small-v3.png",
+    "attribution": "Photo by Angular University",
     "currency": "USD"
   }
 ]

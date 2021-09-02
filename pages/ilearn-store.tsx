@@ -7,14 +7,14 @@ import Products from '../components/Products'
 
 const DonatePage: NextPage = () => {
   return (
-    <Layout title="Shopping Cart | Next.js + TypeScript Example">
+    <Layout title="ilearnhub Cart | Nxgep">
       <div className="page-container">
-        <h1>Shopping Cart</h1>
-        <p>
-          Powered by the{' '}
-          <a href="https://useshoppingcart.com">use-shopping-cart</a> React
-          hooks library.
-        </p>
+        <h1>Largest e-learning store</h1>
+        <p>{' '}</p>
+        {/* <p>
+          Powered by{' '}
+          Stripe Payments
+        </p> */}
         <Cart>
           <CartSummary />
           <Products />
